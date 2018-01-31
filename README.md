@@ -1,5 +1,5 @@
 # Ragnar-Alafia-2017
-This is the data files used for post http://www.mariotalavera.com/running,/ragnar,/tableau/2018/01/12/ragnar-alafia-2018
+This is the data files used for post http://www.mariotalavera.com/running,/ragnar,/tableau/2018/01/12/ragnar-alafia-2017
 
 ## Requirements
 1. Oracle database.  warehouse_generator.sql can be easily revised to suit your db of choice.
